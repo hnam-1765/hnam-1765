@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./name.png" alt="GitHub Banner" width="70%" />
+  <img src="./name.png" alt="GitHub Banner" width="50%" />
 </p>
 
 ## About Me
