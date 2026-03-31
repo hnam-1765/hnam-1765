@@ -1,0 +1,21 @@
+<h1 align="center">Nam Hoai</h1>
+<p align="center">
+  AI Engineer | LLM Research | Computer Vision
+</p>
+
+<p align="center">
+  <img src="./assets/banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
+## About Me
+- Building practical AI systems with LLMs and VLMs
+- Interested in multimodal understanding and deployment
+- Focused on research quality and engineering rigor
+
+## Tech Stack
+Python, PyTorch, Transformers, FastAPI, Docker
+
+## Featured Projects
+- Project 1: Short description
+- Project 2: Short description
+- Project 3: Short description
