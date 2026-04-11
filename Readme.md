@@ -1,49 +1,56 @@
 <h1 align="center">Nam Hoai</h1>
 <p align="center">
-  AI Engineer focused on LLMs, VLMs, and computer vision systems
+  AI Engineer | LLMs | Vision-Language Models | Computer Vision
 </p>
 
 <p align="center">
-  <a href="https://github.com/hnam-1765">GitHub</a>
+  <a href="https://github.com/hnam-1765">github.com/hnam-1765</a>
 </p>
 
 <p align="center">
   <img src="./name.gif" alt="Nam Hoai banner" width="70%" />
 </p>
 
-## About
+## About Me
 
-I build practical AI products and research-driven systems around large language models, vision-language models, and handwriting understanding. My work focuses on turning strong model ideas into reliable training pipelines, measurable experiments, and deployable applications.
+I work on practical AI systems with a focus on large language models, vision-language models, and computer vision. My interests include multimodal learning, handwriting recognition, model distillation, and building reliable training and evaluation pipelines for real-world applications.
 
-## Focus Areas
+## What I Work On
 
-- Large language models and vision-language models
+- LLM and VLM research
 - Handwriting recognition and document understanding
-- Multimodal training, distillation, and evaluation
-- Applied computer vision and production-oriented ML engineering
+- Multimodal training and evaluation
+- Applied machine learning engineering
 
 ## Tech Stack
 
-Python, PyTorch, Transformers, FastAPI, Docker, and modern MLOps tooling
+- Python
+- PyTorch
+- Hugging Face Transformers
+- FastAPI
+- Docker
+- Training and evaluation tooling for modern ML workflows
 
-## Featured Project
+## Repositories
 
-- [WriteViT](https://github.com/hnam-1765/WriteViT): research and engineering work for handwriting and vision-language modeling
+Selected work is available on my GitHub profile:
+
+- [hnam-1765 repositories](https://github.com/hnam-1765?tab=repositories)
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hnam-1765&show_icons=true&hide_border=true" alt="Nam Hoai GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hnam-1765&show_icons=true&hide_border=true" alt="hnam-1765 GitHub stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnam-1765&layout=compact&hide_border=true" alt="Nam Hoai top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnam-1765&layout=compact&hide_border=true" alt="hnam-1765 top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hnam-1765&hide_border=true" alt="Nam Hoai GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=hnam-1765&hide_border=true" alt="hnam-1765 GitHub streak" />
 </div>
