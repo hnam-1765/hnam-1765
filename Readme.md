@@ -37,20 +37,16 @@ Selected work is available on my GitHub profile:
 
 - [hnam-1765 repositories](https://github.com/hnam-1765?tab=repositories)
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hnam-1765&show_icons=true&hide_border=true" alt="hnam-1765 GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnam-1765&show_icons=true&theme=radical&rank_icon=github" alt="hnam-1765's GitHub Stats" />
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnam-1765&layout=compact&hide_border=true" alt="hnam-1765 top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnam-1765&layout=compact&theme=radical" alt="hnam-1765's Top Languages" />
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hnam-1765&hide_border=true" alt="hnam-1765 GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnam-1765&theme=radical" alt="hnam-1765's GitHub Streak" />
 </div>
